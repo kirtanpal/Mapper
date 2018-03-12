@@ -5,4 +5,4 @@ The purpose of this project is to gain some experience with object-oriented prog
 [ 1 ‘a’ [1 3 ‘b’]]
 
 In this example, the Sequence object contains three Element objects: 1, ‘a’ and another Sequence
-object [1 3 ‘b’]. Thus, a Sequence object may contain nested Sequence objects.
+object [1 3 ‘b’]. Thus, a Sequence object may contain nested Sequence objects
